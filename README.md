@@ -24,6 +24,7 @@ This project is ideal for agricultural data management, farm analytics, and deci
 | David Hernandez |
 | William Brown   |
 | Jennifer Garcia |
+
 **Query #2**
 
     -- 2. Total cost of farming activities for FarmerID 1
@@ -31,6 +32,7 @@ This project is ideal for agricultural data management, farm analytics, and deci
 | FarmerID | TotalCost |
 | -------- | --------- |
 | 1        | 195.95    |
+
 **Query #3**
 
     -- 3. Total cultivated land for each farmer
@@ -43,6 +45,7 @@ This project is ideal for agricultural data management, farm analytics, and deci
 | 3        | 2.20                |
 | 4        | 6.70                |
 | 5        | 2.30                |
+
 **Query #4**
 
     -- 4. Average expected yield of all crops
@@ -50,6 +53,7 @@ This project is ideal for agricultural data management, farm analytics, and deci
 | AverageExpectedYield |
 | -------------------- |
 | 8.690000             |
+
 **Query #5**
 
     -- 5. Total harvest quantity per farmer with crop names
@@ -70,6 +74,7 @@ This project is ideal for agricultural data management, farm analytics, and deci
 | Michael Lee     | 2.10         | Soybeans |
 | Sarah Garcia    | 10.50        | Tomatoes |
 | William Brown   | 12.50        | Corn     |
+
 **Query #6**
 
     -- 6. Total sales amount for each farmer
